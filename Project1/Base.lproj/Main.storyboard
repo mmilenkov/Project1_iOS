@@ -88,7 +88,7 @@
                         <viewLayoutGuide key="safeArea" id="a7P-JE-3jC"/>
                     </view>
                     <connections>
-                        <outlet property="uiImageView" destination="5Nm-8D-kSI" id="9cw-QJ-pEc"/>
+                        <outlet property="imageView" destination="5Nm-8D-kSI" id="S0p-Yz-Knw"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="uiA-pG-cKV" userLabel="First Responder" sceneMemberID="firstResponder"/>
